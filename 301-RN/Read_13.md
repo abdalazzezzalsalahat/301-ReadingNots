@@ -23,8 +23,6 @@
 
 #### Viewing HTTP requests
 
-![images](images/http.jpg)
-
  - HTTP requests are never displayed to the user (if you want to see them, you need to use tools such as the Firefox Network Monitor or the Chrome Developer Tools). As an example, your form data will be shown as follows in the Chrome Network tab. 
 
 > ### Server side:
