@@ -1,12 +1,12 @@
 # Reading Notes
 
 ## Code 102:
-    - *Intro to Software Development.*
+    - Intro to Software Development.
 ## Code 201:
-    - *Foundations of Software Development.*
+    - Foundations of Software Development.
 ## Code 301:
-    - *Intermediate Software Development.*
+    - Intermediate Software Development.
 ## Code 401:
-    - *Advanced Software Development.*
+    - Advanced Software Development.
 
-> **Abed alaziz A. Alsalahat**
+> **Abed alaziz A. Alsalahat *Software Engineer***
