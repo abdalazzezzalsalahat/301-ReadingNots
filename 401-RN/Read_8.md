@@ -14,8 +14,7 @@
 expression(i) : Expression is based on the variable used for each element in the old list.*
 
 
-**2. `for i in old_list`:** *The word for followed by the variable name to use, followed by the word in the old list.
-*
+**2. `for i in old_list`:** *The word for followed by the variable name to use, followed by the word in the old list.*
 
 **3. `if filter(i)`:** *Apply a filter with an If-statement.*
 
